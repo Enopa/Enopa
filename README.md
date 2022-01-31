@@ -1,5 +1,5 @@
-## Jamal's Janky Jank
-A home for the janky little projects I cobble together, hopefully as I progress the projects become less and less janky.
+## Jamal's page of stuff
+A home for the humble little projects I cobble together, each hopefully increases my skills in one way or another.
 
-Currently working on a game with some friends and a discord bot
+Currently working on a small webpage using React
 (Also working on saying the word jank less)
